@@ -8,40 +8,9 @@
 <bod style="background: #f7f7f7">
 
 	<div style="background: #f7f7f7; min-height: 100vh" id="wallpaper-type">
-
-		<div class="column-row page-padding" style="padding-bottom: 1.5rem">
-			<div class="transparent-box column-row" style="background: #FFF; font-weight: 400; margin: 0rem; color: rgba(29, 31, 34, 1); border: 0.1rem solid rgba(0, 0, 0, 0.1); box-shadow: 0.2rem 0.2rem 0.3rem rgba(0, 0, 0, 0.1);">
-				<a href="/" id="btn-class-one">
-					Home
-				</a>
-				<div style="width: 1rem"><center>></center></div>
-				<a href="/education" id="btn-class-one">
-					Portfolio
-				</a>
-				<div style="width: 1rem"><center>></center></div>
-				<a href="/education" id="btn-class-one">
-					Neural Network for Image Recognition
-				</a>
-			</div>
-		</div>
-
 		<div class="column-row page-padding" style="padding-bottom: 1.5rem">
 			<div class="transparent-box column-row" style="background: #FFF; font-weight: 400; margin: 0rem; color: rgba(29, 31, 34, 1); border: 0.1rem solid rgba(0, 0, 0, 0.1); box-shadow: 0.2rem 0.2rem 0.3rem rgba(0, 0, 0, 0.1);">
 				<div class="column-xs-12">
-
-
-
-
-				
-
-
-
-
-
-
-
-
-
 
 
 <title>Drawboard</title>
@@ -326,6 +295,6 @@ function showData()
 
 
 
-				</div>
-			</div>
-		</div>
+</div>
+</div>
+</div>
