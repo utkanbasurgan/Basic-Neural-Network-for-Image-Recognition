@@ -5,7 +5,7 @@
 //--------------------------------------------------------------------------------------------------------------------------------
 ?>
 
-<bod style="background: #f7f7f7">
+<body style="background: #f7f7f7">
 
 	<div style="background: #f7f7f7; min-height: 100vh" id="wallpaper-type">
 		<div class="column-row page-padding" style="padding-bottom: 1.5rem">
