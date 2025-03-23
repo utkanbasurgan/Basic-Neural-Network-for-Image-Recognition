@@ -7,7 +7,7 @@ Browser and Node.js compatible
 Lightweight neural network architecture
 No external dependencies
 Client-side machine learning
-Easy-to-use API
+Easy-to-use APIs
 WebGL acceleration support
 Tensor operations in JavaScript
 
