@@ -5,7 +5,7 @@ A lightweight, pure JavaScript neural network library designed for image recogni
 Pure JavaScript implementation
 Browser and Node.js compatible
 Lightweight neural network architecture
-No external dependencies
+No external dependenciesxx
 Client-side machine learning
 Easy-to-use APIs
 WebGL acceleration support regression
