@@ -11,7 +11,7 @@ Easy-to-use APIs
 WebGL acceleration support regression
 Tensor operations in JavaScriptsas
 
-🛠 Technologies
+🛠 Technologiesss
 
 Vanilla JavaScript (ES6+)
 WebGL (optional acceleration)
