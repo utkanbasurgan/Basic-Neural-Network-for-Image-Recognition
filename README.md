@@ -9,7 +9,7 @@ No external dependenciesxx
 Client-side machine learning
 Easy-to-use APIs
 WebGL acceleration support regression
-Tensor operations in JavaScript
+Tensor operations in JavaScriptsas
 
 🛠 Technologies
 
