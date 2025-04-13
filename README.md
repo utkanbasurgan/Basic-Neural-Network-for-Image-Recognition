@@ -8,7 +8,7 @@ Lightweight neural network architecture
 No external dependenciesxx
 Client-side machine learning
 Easy-to-use APIs
-WebGL acceleration support regression
+WebGL acceleration support regressionss
 Tensor operations in JavaScriptsas
 
 🛠 Technologiesss
