@@ -1,7 +1,7 @@
 Overview
 A lightweight, pure JavaScript neural network library designed for image recognition tasks, leveraging the power of modern web technologies and machine learning algorithms.
 🧠 Key Features
-aaaaaa
+
 Pure JavaScript implementationas
 Browser and Node.js compatible
 Lightweight neural network architecturess
@@ -10,7 +10,7 @@ Client-side machine learning
 Easy-to-use APIs
 WebGL acceleration support regressions
 Tensor operations in JavaScriptsass
-ss
+
 🛠 Technologiesss
 
 Vanilla JavaScript (ES6+)
